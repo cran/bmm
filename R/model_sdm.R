@@ -36,6 +36,11 @@
         kappa = list(main = "student_t(5, 1.75, 0.75)", effects = "normal(0, 1)"),
         c = list(main = "student_t(5, 2, 0.75)", effects = "normal(0, 1)")
       ),
+      init_ranges = list(
+        mu = c(-0.5,0.5),
+        kappa = c(2.5,3.5),
+        c = c(4,6)
+      ),
       void_mu = FALSE
     ),
     class = c("bmmodel", "circular", "sdm", paste0("sdm_", version)),
@@ -51,7 +56,7 @@
 
 #' @title `r .model_sdm()$name`
 #' @name sdm
-#' @details see [the online article](https://venpopov.github.io/bmm/articles/bmm_sdm_simple.html) for a detailed description of the model
+#' @details see [the online article](https://venpopov.com/bmm/articles/bmm_sdm_simple.html) for a detailed description of the model
 #'   and how to use it. `r model_info(.model_sdm())`
 #' @param resp_error The name of the variable in the dataset containing the
 #'   response error. The response error should code the response relative to the
