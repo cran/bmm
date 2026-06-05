@@ -1,6 +1,6 @@
-1cdf597db3c523e8a40624b7df98557c *DESCRIPTION
+b321baa8088217569c8bdd07dae05458 *DESCRIPTION
 92cf3af6b70f90ef5d3d670f52068c25 *NAMESPACE
-cac0f2456040725672a712c7d94f3dad *NEWS.md
+f5be9006961b2c969e9ef5f885d22ef6 *NEWS.md
 b781551c8d2b19feeb95b6316edf8063 *R/bmm-package.R
 f48a266631d253d37304da7d45a2884c *R/bmm.R
 989ccd8dbdfd36a4e7d630cabc0fcd75 *R/bmmformula.R
@@ -16,7 +16,7 @@ c5579691d71c49038a22197685873c22 *R/helpers-model.R
 b023351432d05f1d7f8503444114823c *R/helpers-postprocess.R
 4ae9c1d4961f20e170e2dda4af1633a5 *R/helpers-prior.R
 29cc1c5c4ce03ef7ca46501c3830b30c *R/model_cswald.R
-56879d9d8e7f9f1365477c6ce3043d93 *R/model_ddm.R
+723f422c06c7531e366f47c3e425b594 *R/model_ddm.R
 85fd09b3fd49be836899598a38ef1b0b *R/model_ezdm.R
 2aa9aa68a60e0544299f19cd53b990f9 *R/model_imm.R
 dd3be87767f404077dd38c4ac9b67ef6 *R/model_m3.R
@@ -38,7 +38,7 @@ e05727f7479b96bf76155774bde94c3f *data/oberauer_lewandowsky_2019_e1.rda
 ef6c8d885195189f308484b80f3218d5 *data/zhang_luck_2008.rda
 b56d6c5a291b12941240fec57ca7f556 *inst/CITATION
 975e26552bdfa626e52b04a8532753ff *inst/stan_chunks/cswald_crisk_functions.stan
-5edc9207334945539ce4d01d6d49da27 *inst/stan_chunks/cswald_helper_functions.stan
+ed720b174c82ddffb7ea3d583f256c8b *inst/stan_chunks/cswald_helper_functions.stan
 f2d450fc6511506d569200c535e596ee *inst/stan_chunks/cswald_simple_functions.stan
 716f35686070d2716ba5c68afd9ff4a2 *inst/stan_chunks/ddm_functions.stan
 b4a31397983cf14bf9ae06e10caac4f9 *inst/stan_chunks/ezdm_3par_functions.stan
@@ -51,7 +51,7 @@ a63c52e39a1c2fedc33422dd724f5f53 *man/SDMdist.Rd
 fc868ad23ab0dda3264d595a2a090cc6 *man/adjust_ezdm_accuracy.Rd
 83bdaeaaeaa6472a4ade18c5838779ca *man/apply_links.Rd
 0ac1f5ef3d03017476a0f43a0f42005d *man/bmf2bf.Rd
-aa0240960f527fcb1c9110e0a516423d *man/bmm-package.Rd
+18c61b8cfbff3bb63f393d0b41f5624e *man/bmm-package.Rd
 0cfbb2b1d5556642bf6737bf00c7d3ba *man/bmm.Rd
 8ddb0e13fb5e748c3de435215ce2ffb3 *man/bmm_options.Rd
 45739c3df80d74041b8d51f5116e7b0b *man/bmmformula.Rd
@@ -82,7 +82,7 @@ bc30ab106f8dbc429ae64973a9d767e7 *man/figures/README-bmmLogic.png
 1d98a94d190f08dbf6c3ce63dfa5e60c *man/figures/README-fitModel_process.png
 0c816823a3ba7dc4ea9ed66097d4220a *man/figures/README-unnamed-chunk-2-1.png
 bd7be2d7f59e066624a3fe8c5ee504d9 *man/figures/README-unnamed-chunk-3-1.png
-a98d8602b22cc43debf21e7e0e9957a9 *man/figures/README-unnamed-chunk-4-1.png
+b825f1a3c4f3e46b60676efadf57fd65 *man/figures/README-unnamed-chunk-4-1.png
 1f396b0e64a0a102074456bb0bd8f946 *man/figures/README-unnamed-chunk-5-1.png
 83cf43f82f0b93ab7d9768330415de6f *man/figures/logo.png
 e74c83c8ff0b16890e4a0c1d84e8885e *man/fit_info.Rd
