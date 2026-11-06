@@ -1,6 +1,6 @@
 Package: bmm
 Title: Easy and Accessible Bayesian Measurement Models Using 'brms'
-Version: 1.4.1
+Version: 1.4.2
 Authors@R: c(
     person("Vencislav", "Popov", , "vencislav.popov@gmail.com", role = c("aut", "cph"),
            comment = c(ORCID = "0000-0002-8073-4199")),
@@ -41,7 +41,7 @@ Encoding: UTF-8
 LazyData: true
 Config/roxygen2/version: 8.1.0
 NeedsCompilation: no
-Packaged: 2026-10-16 06:22:35 UTC; gidonfrischkorn
+Packaged: 2026-11-04 09:57:05 UTC; gidonfrischkorn
 Author: Vencislav Popov [aut, cph] (ORCID:
     <https://orcid.org/0000-0002-8073-4199>),
   Gidon T. Frischkorn [aut, cre, cph] (ORCID:
@@ -51,4 +51,4 @@ Author: Vencislav Popov [aut, cph] (ORCID:
     are used in 'bmm'.)
 Maintainer: Gidon T. Frischkorn <gfrischkorn@icloud.com>
 Repository: CRAN
-Date/Publication: 2026-10-16 06:50:02 UTC
+Date/Publication: 2026-11-06 12:10:02 UTC
